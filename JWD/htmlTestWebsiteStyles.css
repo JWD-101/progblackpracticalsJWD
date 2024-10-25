@@ -5,7 +5,7 @@ html{
 h1 {
     color:darkslategrey;
     font-size: 70px;
-
+    margin: 20px;
 }
 h2{
     color:darkslategrey;
@@ -27,4 +27,8 @@ a{
 }
 img{
     border: 5px solid darkslategrey;
+}
+table{
+    color:darkslategrey;
+    font-size:20px;
 }
