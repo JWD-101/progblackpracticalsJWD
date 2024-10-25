@@ -1,8 +1,30 @@
+html{
+    background-color: gainsboro;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 h1 {
-    color: darkolivegreen;
-    font-size: x-large;
+    color:darkslategrey;
+    font-size: 70px;
+
+}
+h2{
+    color:darkslategrey;
+    font-size: 30px;
+    padding-left: 20px;
 }
 p {
-    color: darkslategray;
-    font-size: medium;
+    color: darkolivegreen;
+    font-size: 20px;
+    padding-left:25px;
+}
+ul{
+    color:darkolivegreen;
+    font-size: 20px;
+}
+a{
+    color:darkslategrey;
+    font-size: 20px;
+}
+img{
+    border: 5px solid darkslategrey;
 }
